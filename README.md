@@ -87,9 +87,26 @@
 
 ---
 
-## 🖼️ صور من التطبيق
+## 🖼️ لقطات من التطبيق (Screenshots)
 
-> ستجد في هذا المستودع مجلدًا يحتوي على لقطات شاشة (Screenshots) من واجهات التطبيق الحالية.
+تم جمع جميع لقطات الشاشة في مجلد `screenshots`:
+
+* screenshote/Welcome Screen.png
+* screenshote/Splash Screen.png
+* screenshote/SingUp.png
+* screenshote/Login.png
+* screenshote/Profile.png
+* screenshote/Settings.png / Settings 2.png
+* screenshote/Main.png / Maine Filiter.png / Maine_order.png
+* screenshote/Product Info.png / Prodcut Info 2.png
+* screenshote/Make Report.png / Make Report 2.png / Make Report 3.png / Make Report 4.png
+* screenshote/MyReports.png
+* screenshote/Alert.png / Alert Add.png / Alert Add 2.png / Alert Added.png
+* screenshote/Notifcations.png
+* screenshote/Store Info.png
+* screenshote/About.png / screenshote/About 2.png
+
+> هذه الصور تظهر واجهات التطبيق مع الخط المستخدم Cairo والمميزات المطبقة حاليًا.
 
 ---
 
