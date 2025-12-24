@@ -117,8 +117,7 @@ All screenshots are available in the `screenshots` directory, including:
 
 ### Screenshots
 
-![Screenshot 1](screenshot/group_screen.jpg)
-![Screenshot 2](screenshot/imageTow.png)
+![Screenshot 1](/screenshote_one.jpg)
 
 ---
 
