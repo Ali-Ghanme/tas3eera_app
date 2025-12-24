@@ -1,89 +1,143 @@
 # Tas3eera | تسعيرة
-### Towards Transparent Pricing
 
-**Tas3eera** is a community-powered pricing platform that enables consumers to access transparent, location-based product prices before visiting the market.
+## 📌 Project Overview
 
----
+**Tas3eera** is a community-driven mobile application designed to organize and display product prices in a **transparent and accessible** way.  
+The app addresses significant price variations between stores and regions, especially under current circumstances such as displacement and limited access to central markets.
 
-## 🎯 Vision
-To become the most trusted and accessible pricing reference across regions, ensuring fair and transparent markets for everyone.
-
----
-
-## 🧭 Mission
-To empower consumers through a community-driven platform that provides accurate, location-based pricing data, reducing uncertainty and promoting fairness in everyday purchasing decisions.
+Tas3eera relies on **user-contributed price reports**, linked to geographic locations, to provide an approximate and up-to-date price reference before heading to the market.
 
 ---
 
-## 🌍 The Problem
-- Large price differences for the same product.
-- Lack of reliable price references.
-- Limited access to central markets.
-- Consumers rely on trial-and-error to know prices.
+## ❗ Problem Statement
+
+The key challenges that led to building Tas3eera include:
+
+- Significant price differences for the same product between stores.
+- Price variation between city centers and peripheral or remote areas.
+- Difficulty accessing central markets due to displacement or distance.
+- Lack of a reliable and frequently updated price reference.
+- Consumers relying on guesswork or physical visits to discover prices.
 
 ---
 
-## 💡 The Solution
-- Crowdsourced price reporting.
-- Location-aware price discovery.
-- Price history and trend tracking.
-- Smart price alerts.
+## 💡 Solution
+
+**Tas3eera** provides a practical solution by:
+
+- Crowdsourcing product prices from the community.
+- Linking prices to geographic locations and regions.
+- Displaying approximate market prices before purchasing.
+- Reducing information gaps between consumers and markets.
+- Promoting transparency and fairness in pricing.
 
 ---
 
-## 🚀 Product Status
-- MVP under active development.
-- ~45% completed.
-- Focused on real-world validation.
+## 🚀 Project Status
+
+- Project is **under active development**.
+- Approximately **45%** completed.
+- Current focus is on building an **MVP** and validating the idea in real-world scenarios.
 
 ---
 
-## 🧩 Core Features
-- User authentication & guest access.
-- Community-based price reporting.
-- Browse prices by region.
-- Price alerts & notifications.
-- Clean mobile-first UI.
+## 🧩 Current Features
+
+- User authentication (Sign up / Login)
+- Guest mode (view-only access)
+- Product price reporting (registered users only)
+- Price browsing by region
+- Price verification mechanism
+- Price history tracking
+- View user-submitted reports
+- Notification system
+- Price alerts (increase/decrease based on user-defined thresholds)
+- Clean and simple UI
+- Community-driven data contribution
 
 ---
 
-## 🧠 Tech Stack
-- **Flutter**
-- **Supabase**
-- **BLoC / Cubit**
-- **Clean Architecture**
+## 🛠️ Planned Features
+
+- Data reliability and trust scoring
+- Direct store participation
+- Web-based Admin Dashboard
+- Admin moderation and report management
+- Region and permission management
+- Performance and UX improvements
+
+---
+
+## 🛂 User Roles & Permissions
+
+- **Guest**: Browse prices only (read-only)
+- **Registered User**: Submit price reports, create alerts, view reports, receive notifications
+- **Admin**: Manage reports, verify data, manage regions, oversee content
+
+---
+
+## 🧠 System Overview
+
+The system consists of three main components:
+
+### 📱 Mobile Application
+- Built using **Flutter**
+- Handles UI, browsing, reporting, alerts, and notifications
+
+### 🗄️ Backend
+- Powered by **Supabase**
+- Manages database, authentication, storage, real-time updates, price validation, and history tracking
+
+### 🖥️ Web Admin Dashboard (Planned)
+- Web-based interface for administrators
+- Used to manage reports, regions, permissions, and moderation
+- Directly integrated with Supabase
+
+The system communicates through Supabase APIs and is designed for scalability.
 
 ---
 
 ## 🖼️ Screenshots
 
-| Splash | Main | Product |
-|-------|------|---------|
-screenshote/Group 1.jpg
+All screenshots are available in the `screenshots` directory, including:
 
-| Report | Alerts | Profile |
-|-------|--------|---------|
+- Welcome & Splash Screens
+- Authentication (Sign Up / Login)
+- Profile & Settings
+- Main Screen (Filtering & Sorting)
+- Product Details
+- Price Reporting Flow
+- My Reports
+- Price Alerts
+- Notifications
+- Store Information
+- About Page
 
----
+> Screenshots demonstrate the current UI using the **Cairo** font.
 
-## 🔮 Roadmap
-- Data trust & reliability scoring.
-- Store participation.
-- Admin Web Dashboard.
-- Advanced analytics.
+### Screenshots
 
----
-
-## 📊 Pitch Deck
-📌 *Coming soon*  
-(Will be added as a PDF for investors and partners)
+![Screenshot 1](screenshot/group_screen.jpg)
+![Screenshot 2](screenshot/imageTow.png)
 
 ---
 
 ## 🤝 Contributing
-Contributions are welcome.  
-Open an issue or submit a pull request.
+
+Contributions are welcome:
+
+- Feature ideas and enhancements
+- Product & UX feedback
+- Technical contributions (code, architecture)
+
+Feel free to open an **Issue** or submit a **Pull Request**.
 
 ---
 
-**Tas3eera – Building a fair and transparent pricing ecosystem**
+## 📬 Contact
+
+For questions, collaboration, or contributions, feel free to reach out.
+
+---
+
+**Tas3eera – Towards Transparent Pricing**
