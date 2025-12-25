@@ -118,6 +118,8 @@ All screenshots are available in the `screenshots` directory, including:
 ### Screenshots
 
 ![Screenshot 1](/screenshote_one.jpg)
+![Screenshot 1](/singUp_singIn.png)
+
 
 ---
 
